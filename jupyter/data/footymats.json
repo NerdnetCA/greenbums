@@ -1,0 +1,332 @@
+[
+{
+    "name": "Aerogel",
+    "type": "Chemical",
+    "cost": 9,
+    "value": 5,
+    "locations": [
+        "RES", "IND", "EXT", "AGRI"
+    ]
+},
+
+{
+    "name": "Carbon Fibre Plating",
+    "type": "Tech",
+    "cost": 11,
+    "value": 6,
+    "locations" : [
+        "RES"
+    ]
+},
+
+{
+    "name": "Chemical Catalyst",
+    "type": "Chemical",
+    "cost": 7,
+    "value": 4,
+    "locations": [
+        "RES", "AGRI"
+    ]
+},
+
+{
+    "name": "Chemical Superbase",
+    "type": "Chemical",
+    "cost": 9,
+    "value": 5,
+    "locations": [
+        "RES", "IND", "MED"
+    ]
+},
+
+{
+    "name": "Circuit Switch",
+    "type": "Circuit",
+    "cost": 4,
+    "value": 2,
+    "locations": [
+        "STO", "RES", "IND", "HAB", "EXT", "CMD", "AGRI"
+    ]
+},
+
+{
+    "name": "Electromagnet",
+    "type": "Circuit",
+    "cost": 9,
+    "value": 5,
+    "locations": [
+        "STO", "RES", "CMD"
+    ]
+},
+
+{
+    "name": "Encrypted Memory Chip",
+    "type": "Tech",
+    "cost": 4,
+    "value": 2,
+    "locations": [
+        "RES", "CMD"
+    ]
+},
+
+{
+    "name": "Epinephrine",
+    "type": "Chemical",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "RES", "AGRI", "MED"
+    ]
+},
+
+{
+    "name": "Epoxy Adhesive",
+    "type": "Chemical",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "STO", "RES", "CMD"
+    ]
+},
+
+{
+    "name": "Graphene",
+    "type": "Chemical",
+    "cost": 23,
+    "value": 12,
+    "locations": [
+        "RES", "HAB", "CMD", "AGRI"
+    ]
+},
+
+{
+    "name": "Ion Battery",
+    "type": "Circuit",
+    "cost": 9,
+    "value": 5,
+    "locations": [
+        "RES", "CMD"
+    ]
+},
+
+{
+    "name": "Memory Chip",
+    "type": "Tech",
+    "cost": 4,
+    "value": 2,
+    "locations": [
+        "RES", "CMD"
+    ]
+},
+
+{
+    "name": "Metal Coil",
+    "type": "Circuit",
+    "cost": 9,
+    "value": 5,
+    "locations": [
+        "STO", "RES", "IND", "CMD", "AGRI"
+    ]
+},
+
+{
+    "name": "Micro Hydraulics",
+    "type": "Tech",
+    "cost": 7,
+    "value": 4,
+    "locations": [
+        "RES", "IND"
+    ]
+},
+
+{
+    "name": "Micro Supercapacitor",
+    "type": "Circuit",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "RES", "CMD"
+    ]
+},
+
+{
+    "name": "Micro Thrusters",
+    "type": "Tech",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "STO", "RES", "IND", "CMD"
+    ]
+},
+
+{
+    "name": "Micro Transformer",
+    "type": "Circuit",
+    "cost": 7,
+    "value": 4,
+    "locations": [
+        "RES", "IND", "CMD", "AGRI", "MED"
+    ]
+},
+
+{
+    "name": "Motor",
+    "type": "Circuit",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "STO", "RES", "IND", "AGRI"
+    ]
+},
+
+{
+    "name": "Optical Lens",
+    "type": "Tech",
+    "cost": 9,
+    "value": 5,
+    "locations": [
+        "RES", "CMD"
+    ]
+},
+
+{
+    "name": "Oxygenic Bacteria",
+    "type": "Chemical",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "RES", "AGRI"
+    ]
+},
+
+{
+    "name": "pH Neutralizer",
+    "type": "Chemical",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "RES", "AGRI", "MED"
+    ]
+},
+
+{
+    "name": "RDX",
+    "type": "Chemical",
+    "cost": 7,
+    "value": 4,
+    "locations": [
+        "STO", "RES", "IND", "CMD"
+    ]
+},
+
+{
+    "name": "Scrambler",
+    "type": "Tech",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "RES", "CMD"
+    ]
+},
+
+{
+    "name": "Tungsten Carbide",
+    "type": "Tech",
+    "cost": 11,
+    "value": 6,
+    "locations": [
+        "RES", "IND", "EXT", "AGRI"
+    ]
+},
+
+{
+    "name": "Viscoelastic Polymer",
+    "type": "Chemical",
+    "cost": 11,
+    "value": 6,
+    "locations": [
+        "RES", "CMD", "AGRI"
+    ]
+},
+
+{
+    "name": "Circuit Board",
+    "type": "Circuit",
+    "cost": 9,
+    "value": 5,
+    "locations": [
+        "IND", "CMD"
+    ]
+},
+
+{
+    "name": "Electrical Fuse",
+    "type": "Circuit",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "CMD"
+    ]
+},
+
+{
+    "name": "Electrical Wiring",
+    "type": "Circuit",
+    "cost": 9,
+    "value": 5,
+    "locations": [
+        "IND", "CMD"
+    ]
+},
+
+{
+    "name": "Microelectrode",
+    "type": "Circuit",
+    "cost": 16,
+    "value": 8,
+    "locations": [
+        "IND", "AGRI"
+    ]
+},
+
+{
+    "name": "Optical Fibre",
+    "type": "Circuit",
+    "cost": 11,
+    "value": 6,
+    "locations": [
+        "STO", "CMD", "AGRI"
+    ]
+},
+
+{
+    "name": "Titanium Plating",
+    "type": "Tech",
+    "cost": 11,
+    "value": 6,
+    "locations": [
+        "IND"
+    ]
+},
+
+{
+    "name": "Transmitter",
+    "type": "Tech",
+    "cost": 5,
+    "value": 3,
+    "locations": [
+        "CMD"
+    ]
+},
+
+{
+    "name": "Weapon Component",
+    "type": "Tech",
+    "cost": 18,
+    "value": 9,
+    "locations": [
+        "IND", "CMD"
+    ]
+}
+
+]

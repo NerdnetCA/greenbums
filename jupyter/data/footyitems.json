@@ -1,0 +1,174 @@
+[
+
+{
+    "name": "Agricultural Process Sample",
+    "locations": []
+},
+{
+    "name": "Biochemical Agent",
+    "locations": [
+        "IMARK", "CRASH"
+    ]
+},
+{
+    "name": "Biological Sample",
+    "locations": ["STO","AGRI"]
+},
+{
+    "name": "Building Schematic",
+    "locations": ["CMD","AGRI"]
+},
+{
+    "name": "Californium",
+    "locations": ["EXT"]
+},
+{
+    "name": "Cast Fossil",
+    "locations": ["EXT"]
+},
+{
+    "name": "Chemical Process Sample",
+    "locations": []
+},
+{
+    "name": "Chemical Sample",
+    "locations": ["RES"]
+},
+{
+    "name": "Compact Library",
+    "locations": ["RES","HAB","CMD","SETT"]
+},
+{
+    "name": "Compression-Liquefied Gas",
+    "locations": ["RES","PWR","IND","EXT","AGRI","MISSION"]
+},
+{
+    "name": "Deep Mantle Sample",
+    "locations": ["RES","EXT"]
+},
+{
+    "name": "Degraded Power Regulator",
+    "locations": ["IMARK","RES","CRASH"]
+},
+{
+    "name": "G-Meds",
+    "locations": ["IMARK","MED","RES","CMD","AGRI","SETT","MISSION","CRASH"]
+},
+{
+    "name": "Genetic Repair Meds",
+    "locations": ["MED","STO","RES","IND","EXT","AGRI"]
+},
+{
+    "name": "Health Monitor",
+    "locations": ["MED","RES","HAB","MISSION","CRASH"]
+},
+{
+    "name": "Hush",
+    "locations": ["IMARK","CRASH"]
+},
+{
+    "name": "Inertia Canister",
+    "locations": ["RES","PWR","IND","AGRI"]
+},
+{
+    "name": "Infinity",
+    "locations": ["HAB","CMD","SETT"]
+},
+{
+    "name": "Inorganic Containment",
+    "locations": []
+},
+{
+    "name": "Insight",
+    "locations": ["RES","HAB","CMD","SETT"]
+},
+{
+    "name": "Insight Data Bank",
+    "locations": ["RES","HAB","CMD","SETT"]
+},
+{
+    "name": "Insight Entertainment Suite",
+    "locations": ["SETT"]
+},
+{
+    "name": "Ionised Gas",
+    "locations": ["RES","PWR","IND","EXT","AGRI","MISSION"]
+},
+{
+    "name": "Lazarus",
+    "locations": ["IMARK","CRASH"]
+},
+{
+    "name": "Microbial Inhibitor",
+    "locations": ["RES","AGRI"]
+},
+{
+    "name": "Mutagenic Catalyst",
+    "locations": []
+},
+{
+    "name": "Nutritional Concentrate",
+    "locations": ["RES","AGRI"]
+},
+{
+    "name": "Personal Computer",
+    "locations": ["RES","HAB","CMD","SETT"]
+},
+{
+    "name": "Personal Documents",
+    "locations": ["HAB","CMD","SETT"]
+},
+{
+    "name": "Petrified Fossil",
+    "locations": ["EXT"]
+},
+{
+    "name": "Power Regulator",
+    "locations": ["SETT"]
+},
+{
+    "name": "Push",
+    "locations": ["IMARK","CRASH"]
+},
+{
+    "name": "Pyrolytic Catalyst",
+    "locations": []
+},
+{
+    "name": "Refinement Process Sample",
+    "locations": []
+},
+{
+    "name": "Ship Schematic",
+    "locations": ["STO","CMD"]
+},
+{
+    "name": "Suit Schematic",
+    "locations": ["STO","PWR","CMD","MISSION"]
+},
+{
+    "name": "Surveillance Equipment",
+    "locations": ["STO","EXT","CMD"]
+},
+{
+    "name": "Synthetic Genome",
+    "locations": ["AGRI"]
+},
+{
+    "name": "True Form Fossil",
+    "locations": ["EXT"]
+},
+{
+    "name": "Universal Translator",
+    "locations": ["HAB","CMD","SETT"]
+},
+{
+    "name": "Vehicle Schematic",
+    "locations": ["STO","CMD"]
+},
+{
+    "name": "Weapon Schematic",
+    "locations": ["IMARK","STO","PWR","CMD"]
+}
+
+]

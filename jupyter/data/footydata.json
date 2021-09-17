@@ -1,0 +1,455 @@
+[
+{
+    "name": "Accident Logs",
+    "locations": ["RES","PWR","IND","HAB","EXT","AGRI"]
+},
+{
+    "name": "Air Quality Reports",
+    "locations": ["STO","PWR","IND","HAB","EXT","AGRI","MISSION"]
+},
+{
+    "name": "Atmospheric Data",
+    "locations": ["IMARK","RES","IND","CSAT","MISSION"]
+},
+{
+    "name": "Audio Logs",
+    "locations": ["CMD","SETT","MISSION"]
+},
+{
+    "name": "AX Combat Logs",
+    "locations": ["CMD"]
+},
+{
+    "name": "Ballistics Data",
+    "locations": ["IMARK","CMD","MISSION"]
+},
+{
+    "name": "Biological Weapon Data",
+    "locations": []
+},
+{
+    "name": "Biometric Data",
+    "locations": ["MED","CMD","MISSION"]
+},
+{
+    "name": "Blacklist Data",
+    "locations": ["CMD","CSAT"]
+},
+{
+    "name": "Blood Test Results",
+    "locations": ["MED","CMD","MISSION"]
+},
+{
+    "name": "Campaign Plans",
+    "locations": ["HAB"]
+},
+{
+    "name": "Cat Media",
+    "locations": ["HAB"]
+},
+{
+    "name": "Census Data",
+    "locations": ["HAB"]
+},
+{
+    "name": "Chemical Experiment Data",
+    "locations": ["RES","IND","AGRI","MISSION"]
+},
+{
+    "name": "Chemical Formulae",
+    "locations": ["RES","IND","AGRI","MISSION"]
+},
+{
+    "name": "Chemical Inventory",
+    "locations": ["RES","IND","EXT","AGRI","MISSION"]
+},
+{
+    "name": "Chemical Patents",
+    "locations": ["RES","IND","AGRI","MISSION"]
+},
+{
+    "name": "Chemical Weapon Data",
+    "locations": []
+},
+{
+    "name": "Classic Entertainment",
+    "locations": ["HAB"]
+},
+{
+    "name": "Clinical Trial Records",
+    "locations": ["MED","RES","MISSION"]
+},
+{
+    "name": "Cocktail Recipes",
+    "locations": ["HAB"]
+},
+{
+    "name": "Combat Training Material",
+    "locations": ["RES","HAB","CMD","MISSION"]
+},
+{
+    "name": "Combatant Performance",
+    "locations": ["HAB","CMD","MISSION"]
+},
+{
+    "name": "Conflict History",
+    "locations": ["CMD"]
+},
+{
+    "name": "Criminal Records",
+    "locations": ["CMD"]
+},
+{
+    "name": "Crop Yield Analysis",
+    "locations": ["AGRI"]
+},
+{
+    "name": "Culinary Recipes",
+    "locations": ["HAB"]
+},
+{
+    "name": "Digital Designs",
+    "locations": ["HAB","MISSION"]
+},
+{
+    "name": "Duty Rota",
+    "locations": ["RES","PWR","IND","CMD"]
+},
+{
+    "name": "Employee Directory",
+    "locations": ["HAB"]
+},
+{
+    "name": "Employee Expenses",
+    "locations": ["HAB"]
+},
+{
+    "name": "Employee Genetic Data",
+    "locations": ["RES","CMD"]
+},
+{
+    "name": "Employment History",
+    "locations": ["HAB"]
+},
+{
+    "name": "Enhanced Interrogation Recordings",
+    "locations": ["CMD"]
+},
+{
+    "name": "Espionage Material",
+    "locations": []
+},
+{
+    "name": "Evacuation Protocols",
+    "locations": ["PWR","IND","HAB","MISSION"]
+},
+{
+    "name": "Exploration Journals",
+    "locations": ["HAB"]
+},
+{
+    "name": "Extraction Yield Data",
+    "locations": ["RES","IND","EXT","MISSION"]
+},
+{
+    "name": "Faction Associates",
+    "locations": ["HAB"]
+},
+{
+    "name": "Faction Donator List",
+    "locations": ["HAB"]
+},
+{
+    "name": "Faction News",
+    "locations": ["HAB","CSAT"]
+},
+{
+    "name": "Financial Projections",
+    "locations": ["HAB"]
+},
+{
+    "name": "Fleet Registry",
+    "locations": []
+},
+{
+    "name": "Gene Sequencing Data",
+    "locations": ["MED","RES","AGRI","MISSION"]
+},
+{
+    "name": "Genetic Research",
+    "locations": ["MED","RES","AGRI","MISSION"]
+},
+{
+    "name": "Geological Data",
+    "locations": ["EXT"]
+},
+{
+    "name": "Hydroponic Data",
+    "locations": ["AGRI"]
+},
+{
+    "name": "Incident Logs",
+    "locations": ["CMD"]
+},
+{
+    "name": "Influence Projections",
+    "locations": ["HAB"]
+},
+{
+    "name": "Internal Correspondence",
+    "locations": ["HAB","CSAT"]
+},
+{
+    "name": "Interrogation Recordings",
+    "locations": ["CMD"]
+},
+{
+    "name": "Interview Recordings",
+    "locations": []
+},
+{
+    "name": "Job Applications",
+    "locations": ["HAB","CMD"]
+},
+{
+    "name": "Kompromat",
+    "locations": []
+},
+{
+    "name": "Literary Fiction",
+    "locations": ["HAB"]
+},
+{
+    "name": "Maintenance Logs",
+    "locations": ["IMARK","PWR","AGRI","MISSION"]
+},
+{
+    "name": "Manufacturing Instructions",
+    "locations": ["STO","RES","IND","HAB","CSAT","MISSION"]
+},
+{
+    "name": "Medical Records",
+    "locations": ["MED","RES","MISSION"]
+},
+{
+    "name": "Meeting Minutes",
+    "locations": ["HAB"]
+},
+{
+    "name": "Mineral Survey",
+    "locations": ["IND","EXT","CSAT","MISION"]
+},
+{
+    "name": "Mining Analytics",
+    "locations": ["IND","EXT","MISSION"]
+},
+{
+    "name": "Multimedia Entertainment",
+    "locations": ["HAB"]
+},
+{
+    "name": "Network Access History",
+    "locations": ["HAB"]
+},
+{
+    "name": "Network Security Protocols",
+    "locations": []
+},
+{
+    "name": "Next of Kin Records",
+    "locations": ["HAB"]
+},
+{
+    "name": "NOC Data",
+    "locations": ["CSAT","MISSION"]
+},
+{
+    "name": "Operational Manual",
+    "locations": ["MED","RES","IND","CMD","CSAT","MISSION"]
+},
+{
+    "name": "Opinion Polls",
+    "locations": ["HAB","CMD"]
+},
+{
+    "name": "Patient History",
+    "locations": ["MED"]
+},
+{
+    "name": "Patrol Routes",
+    "locations": ["IMARK","CMD","MISSION"]
+},
+{
+    "name": "Payroll Information",
+    "locations": ["HAB"]
+},
+{
+    "name": "Personal Logs",
+    "locations": ["HAB"]
+},
+{
+    "name": "Pharmaceutical Patents",
+    "locations": ["MED","RES","CMD","AGRI","MISSION"]
+},
+{
+    "name": "Photo Albums",
+    "locations": ["HAB"]
+},
+{
+    "name": "Plant Growth Charts",
+    "locations": ["AGRI"]
+},
+{
+    "name": "Political Affiliations",
+    "locations": ["HAB"]
+},
+{
+    "name": "Prisoner Logs",
+    "locations": []
+},
+{
+    "name": "Production Reports",
+    "locations": ["RES","IND","AGRI","MISSION"]
+},
+{
+    "name": "Production Schedule",
+    "locations": ["RES","IND","AGRI","MISSION"]
+},
+{
+    "name": "Propaganda",
+    "locations": ["CSAT"]
+},
+{
+    "name": "Purchase Records",
+    "locations": ["HAB","AGRI"]
+},
+{
+    "name": "Purchase Requests",
+    "locations": ["AGRI"]
+},
+{
+    "name": "Radioactivity Data",
+    "locations": ["RES","PWR","IND","CSAT","MISSION"]
+},
+{
+    "name": "Reactor Output Review",
+    "locations": ["RES","PWR","IND","CSAT","MISSION"]
+},
+{
+    "name": "Recycling Logs",
+    "locations": ["IND","HAB","MISSION"]
+},
+{
+    "name": "Residential Directory",
+    "locations": ["HAB"]
+},
+{
+    "name": "Risk Assessments",
+    "locations": ["RES","HAB","MISSION"]
+},
+{
+    "name": "Sales Records",
+    "locations": ["HAB"]
+},
+{
+    "name": "Security Expenses",
+    "locations": ["CMD","MISSION"]
+},
+{
+    "name": "Seed Geneaology",
+    "locations": ["RES","AGRI"]
+},
+{
+    "name": "Settlement Assault Plans",
+    "locations": ["CMD","MISSION"]
+},
+{
+    "name": "Shareholder Information",
+    "locations": []
+},
+{
+    "name": "Slush Fund Logs",
+    "locations": []
+},
+{
+    "name": "Smear Campaign Plans",
+    "locations": ["HAB","CMD"]
+},
+{
+    "name": "Spectral Analysis Data",
+    "locations": ["RES","CMD","CSAT","MISSION"]
+},
+{
+    "name": "Spyware",
+    "locations": []
+},
+{
+    "name": "Stellar Activity Logs",
+    "locations": ["RES","CMD","AGRI","CSAT","MISSION"]
+},
+{
+    "name": "Surveillance Logs",
+    "locations": ["CMD","CSAT","MISSION"]
+},
+{
+    "name": "Tactical Plans",
+    "locations": ["IMARK","CMD","MISSION"]
+},
+{
+    "name": "Tax Records",
+    "locations": ["HAB"]
+},
+{
+    "name": "Topographical Surveys",
+    "locations": ["RES","IND","CSAT","MISSION"]
+},
+{
+    "name": "Travel Permits",
+    "locations": ["HAB"]
+},
+{
+    "name": "Troop Deployment Records",
+    "locations": ["CMD","MISSION"]
+},
+{
+    "name": "Union Membership",
+    "locations": ["PWR"]
+},
+{
+    "name": "Vaccination Records",
+    "locations": ["RES"]
+},
+{
+    "name": "Vaccine Research",
+    "locations": []
+},
+{
+    "name": "VIP Security Detail",
+    "locations": []
+},
+{
+    "name": "Virology Data",
+    "locations": ["RES"]
+},
+{
+    "name": "Virus",
+    "locations": []
+},
+{
+    "name": "Visitor Register",
+    "locations": ["HAB"]
+},
+{
+    "name": "Weapon Inventory",
+    "locations": ["CMD","MISSION"]
+},
+{
+    "name": "Weapon Test Data",
+    "locations": ["CMD","MISSION"]
+},
+{
+    "name": "Xeno-Defence Protocols",
+    "locations": []
+}
+
+]
