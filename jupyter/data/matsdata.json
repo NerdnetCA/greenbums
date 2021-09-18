@@ -1,10 +1,114 @@
 [
 {
     "name": "Aberrant Shield Pattern Analysis",
-    "subtype": "",
-    "grade": "",
+    "subtype": "Shield data",
+    "grade": "Rare",
     "locations": [
-        "Ship scan (combat)", "MISSION"
+        "Combat ship", "MISSION"
+        ]
+},
+{
+    "name": "Abnormal Compact Emissions Data",
+    "subtype": "Emission data",
+    "grade": "Very rare",
+    "locations": [
+        "Encoded emissions", "Combat ship", "MISSION"
+        ]
+},
+{
+    "name": "Adaptive Encryptors Capture",
+    "subtype": "Encryption files",
+    "grade": "Very rare",
+    "locations": [
+        "Surface signal", "Signal"
+        ]
+},
+{
+    "name": "Anomalous Bulk Scan Data",
+    "subtype": "Data archives",
+    "grade": "Very common",
+    "locations": [
+        "Transport ship", "MISSION"
+        ]
+},
+{
+    "name": "Anomalous FSD Telemetry",
+    "subtype": "Wake scans",
+    "grade": "Common",
+    "locations": [
+        "High wake", "MISSION"
+        ]
+},
+{
+    "name": "Atypical Disrupted Wake Echoes",
+    "subtype": "Wake scans",
+    "grade": "Very common",
+    "locations": [
+        "High wake", "MISSION"
+        ]
+},
+{
+    "name": "Atypical Encryption Archives",
+    "subtype": "Encryption files",
+    "grade": "Rare",
+    "locations": [
+        "Surface signal"
+        ]
+},
+{
+    "name": "Classified Scan Databanks",
+    "subtype": "Data archives",
+    "grade": "Standard",
+    "locations": [
+        "Surface signal", "Transport ship"
+        ]
+},
+{
+    "name": "Classified Scan Fragment",
+    "subtype": "Data archives",
+    "grade": "Vaery rare",
+    "locations": [
+        "MISSION", "Surface signal", "Authority ship"
+        ]
+},
+{
+    "name": "Cracked Industrial Firmware",
+    "subtype": "Encoded Firmware",
+    "grade": "Standard",
+    "locations": [
+        "MISSION", "Surface signal"
+        ]
+},
+{
+    "name": "Datamined Wake Exceptions",
+    "subtype": "Wake scans",
+    "grade": "Very rare",
+    "locations": [
+        "MISSION", "High wake", "Encoded emissions"
+        ]
+},
+{
+    "name": "Decoded Emission Data",
+    "subtype": "Emission data",
+    "grade": "Rare",
+    "locations": [
+        "MISSION", "Combat ship"
+        ]
+},
+{
+    "name": "Distorted Shield Cycle Recordings",
+    "subtype": "Shield data",
+    "grade": "Very common",
+    "locations": [
+        "MISSION", "Transport ship"
+        ]
+},
+{
+    "name": "Divergent Scan Data",
+    "subtype": "Data archives",
+    "grade": "Rare",
+    "locations": [
+        "High wake"
         ]
 },
 {
@@ -12,7 +116,7 @@
     "subtype": "",
     "grade": "",
     "locations": [
-        "Ship scan (combat)", "MISSION"
+        "MISSION"
         ]
 },
 {
@@ -20,7 +124,7 @@
     "subtype": "",
     "grade": "",
     "locations": [
-        "Ship scan (combat)", "MISSION"
+        "MISSION"
         ]
 },
 {
@@ -28,9 +132,25 @@
     "subtype": "",
     "grade": "",
     "locations": [
-        "Ship scan (combat)", "MISSION"
+        "MISSION"
         ]
 },
-    
+{
+    "name": "",
+    "subtype": "",
+    "grade": "",
+    "locations": [
+        "MISSION"
+        ]
+},
+{
+    "name": "",
+    "subtype": "",
+    "grade": "",
+    "locations": [
+        "MISSION"
+        ]
+},
+
     
 ]
