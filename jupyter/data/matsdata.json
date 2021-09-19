@@ -66,14 +66,14 @@
 {
     "name": "Classified Scan Fragment",
     "subtype": "Data archives",
-    "grade": "Vaery rare",
+    "grade": "Very rare",
     "locations": [
         "MISSION", "Surface signal", "Authority ship"
         ]
 },
 {
     "name": "Cracked Industrial Firmware",
-    "subtype": "Encoded Firmware",
+    "subtype": "Encoded firmware",
     "grade": "Standard",
     "locations": [
         "MISSION", "Surface signal"
@@ -108,49 +108,256 @@
     "subtype": "Data archives",
     "grade": "Rare",
     "locations": [
+        "MISSION", "Surface signal"
+        ]
+},
+{
+    "name": "Eccentric Hyperspace Trajectories",
+    "subtype": "Wake scans",
+    "grade": "Rare",
+    "locations": [
         "High wake"
         ]
 },
 {
-    "name": "",
-    "subtype": "",
-    "grade": "",
+    "name": "Exceptional Scrambled Emission Data",
+    "subtype": "Emission data",
+    "grade": "Very common",
     "locations": [
-        "MISSION"
+        "Ship scan", "MISSION", "Signal"
         ]
 },
 {
-    "name": "",
-    "subtype": "",
-    "grade": "",
+    "name": "Guardian Module Blueprint Fragment",
+    "subtype": "Guardian",
+    "grade": "Very rare",
     "locations": [
-        "MISSION"
+        "Ancient ruins"
         ]
 },
 {
-    "name": "",
-    "subtype": "",
-    "grade": "",
+    "name": "Guardian Vessel Blueprint Fragment",
+    "subtype": "Guardian",
+    "grade": "Very rare",
     "locations": [
-        "MISSION"
+        "Ancient ruins"
         ]
 },
 {
-    "name": "",
-    "subtype": "",
-    "grade": "",
+    "name": "Guardian Weapon Blueprint Fragment",
+    "subtype": "Guardian",
+    "grade": "Very rare",
     "locations": [
-        "MISSION"
+        "Ancient ruins"
         ]
 },
 {
-    "name": "",
-    "subtype": "",
-    "grade": "",
+    "name": "Inconsistent Shield Soak Analysis",
+    "subtype": "Shield data",
+    "grade": "Common",
     "locations": [
-        "MISSION"
+        "Transport ship", "MISSION"
         ]
 },
-
+{
+    "name": "Irregular Emission Data",
+    "subtype": "Emission data",
+    "grade": "Common",
+    "locations": [
+        "MISSION", "Signal"
+        ]
+},
+{
+    "name": "Modified Consumer Firmware",
+    "subtype": "Encoded firmware",
+    "grade": "Common",
+    "locations": [
+        "MISSION", "Signal", "Surface signal"
+        ]
+},
+{
+    "name": "Modified Embedded Firmware",
+    "subtype": "Encoded firmware",
+    "grade": "Very rare",
+    "locations": [
+        "Surface signal", "MISSION"
+        ]
+},
+{
+    "name": "Open Symmetric Keys",
+    "subtype": "Encryption files",
+    "grade": "Standard",
+    "locations": [
+        "Surface signal", "MISSION"
+        ]
+},
+{
+    "name": "Pattern Alpha Obelisk Data",
+    "subtype": "Guardian",
+    "grade": "Standard",
+    "locations": [
+        "Ancient ruins"
+        ]
+},
+{
+    "name": "Pattern Beta Obelisk Data",
+    "subtype": "Guardian",
+    "grade": "Common",
+    "locations": [
+        "Ancient ruins"
+        ]
+},
+{
+    "name": "Pattern Delta Obelisk Data",
+    "subtype": "Guardian",
+    "grade": "Rare",
+    "locations": [
+        "Ancient ruins"
+        ]
+},
+{
+    "name": "Pattern Epsilon Obelisk Data",
+    "subtype": "Guardian",
+    "grade": "Very rare",
+    "locations": [
+        "Ancient ruins"
+        ]
+},
+{
+    "name": "Pattern Gamma Obelisk Data",
+    "subtype": "Guardian",
+    "grade": "Very common",
+    "locations": [
+        "Ancient ruins"
+        ]
+},
+{
+    "name": "Peculiar Shield Frequency Data",
+    "subtype": "Shield data",
+    "grade": "Very rare",
+    "locations": [
+        "Ship scan", "MISSION"
+        ]
+},
+{
+    "name": "Security Firmware Patch",
+    "subtype": "Encoded firmware",
+    "grade": "Rare",
+    "locations": [
+        "Surface signal", "MISSION"
+        ]
+},
+{
+    "name": "Ship Flight Data",
+    "subtype": "Thargoid",
+    "grade": "Standard",
+    "locations": [
+        "Thargoid ship"
+        ]
+},
+{
+    "name": "Ship Systems Data",
+    "subtype": "Thargoid",
+    "grade": "Standard",
+    "locations": [
+        "Thargoid ship"
+        ]
+},
+{
+    "name": "Specialised Legacy Firmware",
+    "subtype": "Encoded firmware",
+    "grade": "Very common",
+    "locations": [
+        "MISSION", "Surface signal", "Signal"
+        ]
+},
+{
+    "name": "Strange Wake Solutions",
+    "subtype": "Wake scans",
+    "grade": "Standard",
+    "locations": [
+        "High wake", "MISSION"
+        ]
+},
+{
+    "name": "Tagged Encryption Codes",
+    "subtype": "Encryption files",
+    "grade": "Common",
+    "locations": [
+        "Surface signal", "Signal", "MISSION"
+        ]
+},
+{
+    "name": "Thargoid Material Composition Data",
+    "subtype": "Thargoid",
+    "grade": "Standard",
+    "locations": [
+        "Thargoid site"
+        ]
+},
+{
+    "name": "Thargoid Residue Data",
+    "subtype": "Thargoid",
+    "grade": "Rare",
+    "locations": [
+        "Thargoid site"
+        ]
+},
+{
+    "name": "Thargoid Ship Signature",
+    "subtype": "Thargoid",
+    "grade": "Standard",
+    "locations": [
+        "Thargoid ship", "Thargoid site"
+        ]
+},
+{
+    "name": "Thargoid Structural Data",
+    "subtype": "Thargoid",
+    "grade": "Common",
+    "locations": [
+        "Thargoid site"
+        ]
+},
+{
+    "name": "Thargoid Wake Data",
+    "subtype": "Thargoid",
+    "grade": "Rare",
+    "locations": [
+        "Thargoid ship"
+        ]
+},
+{
+    "name": "Unexpected Emission Data",
+    "subtype": "Emission data",
+    "grade": "Standard",
+    "locations": [
+        "Combat ship", "Signal"
+        ]
+},
+{
+    "name": "Unidentified Scan Archives",
+    "subtype": "Data archives",
+    "grade": "Common",
+    "locations": [
+        "Transport ship"
+        ]
+},
+{
+    "name": "Untypical Shield Scans",
+    "subtype": "Shield data",
+    "grade": "Standard",
+    "locations": [
+        "Combat ship"
+        ]
+},
+{
+    "name": "Unusual Encrypted Files",
+    "subtype": "Encryption files",
+    "grade": "Very common",
+    "locations": [
+        "Surface signal", "Signal", "MISSION"
+        ]
+}
     
 ]

@@ -1,0 +1,18 @@
+[
+{
+  "class": 7,
+  "grade": "A",
+  "cost": 0,
+  "mass": 80.0,
+  "integrity": 144,
+  "power_draw": 0.89,
+  "boot_time": 5.0,
+  "weapons_capacity": 61.0,
+    "weapons_recharge": 6.1,
+    "engines_capacity": 41.0,
+    "engines_recharge": 4.0,
+    "systems_capacity": 41.0,
+    "systems_recharge": 4.0
+}
+
+]

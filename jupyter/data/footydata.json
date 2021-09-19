@@ -364,6 +364,10 @@
     "locations": ["CMD","MISSION"]
 },
 {
+    "name": "Settlement Defence Plans",
+    "locations": ["IMARK","CMD"]
+},
+{
     "name": "Shareholder Information",
     "locations": []
 },

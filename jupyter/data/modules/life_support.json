@@ -1,0 +1,13 @@
+[
+{
+  "class": 5,
+  "grade": "D",
+  "cost": 0,
+  "mass": 8.0,
+  "integrity": 86,
+  "power_draw": 0.64,
+  "boot_time": 1.0,
+  "life_support": "7:30"
+}
+
+]
