@@ -2,7 +2,7 @@
 {
     "class": 3,
     "grade": "E",
-    "cost": 0,
+    "cost": 5931,
     "mass": 5,
     "integrity": 58,
     "power": 8.0,
@@ -11,7 +11,7 @@
 {
     "class": 3,
     "grade": "D",
-    "cost": 0,
+    "cost": 17793,
     "mass": 2,
     "integrity": 51,
     "power": 9.0,
@@ -20,7 +20,7 @@
 {
     "class": 3,
     "grade": "C",
-    "cost": 0,
+    "cost": 53379,
     "mass": 2.5,
     "integrity": 64,
     "power": 10.0,
@@ -29,7 +29,7 @@
 {
     "class": 3,
     "grade": "B",
-    "cost": 0,
+    "cost": 160137,
     "mass": 4,
     "integrity": 77,
     "power": 11.0,
@@ -38,13 +38,287 @@
 {
     "class": 3,
     "grade": "A",
-    "cost": 0,
+    "cost": 480411,
     "mass": 2.5,
     "integrity": 70,
     "power": 12.0,
     "heat_efficiency": 0.4
+},
+    
+{
+    "class": 2,
+    "grade": "E",
+    "cost": 1977,
+    "mass": 2.5,
+    "integrity": 46,
+    "power": 6.4,
+    "heat_efficiency": 1.0
+},
+{
+    "class": 2,
+    "grade": "D",
+    "cost": 5931,
+    "mass": 1,
+    "integrity": 41,
+    "power": 7.2,
+    "heat_efficiency": 0.75
+},
+{
+    "class": 2,
+    "grade": "C",
+    "cost": 17793,
+    "mass": 1.3,
+    "integrity": 51,
+    "power": 8.0,
+    "heat_efficiency": 0.5
+},
+{
+    "class": 2,
+    "grade": "B",
+    "cost": 53379,
+    "mass": 2,
+    "integrity": 61,
+    "power": 8.8,
+    "heat_efficiency": 0.45
+},
+{
+    "class": 2,
+    "grade": "A",
+    "cost": 160137,
+    "mass": 1.3,
+    "integrity": 56,
+    "power": 9.6,
+    "heat_efficiency": 0.4
+},
+
+{
+    "class": 4,
+    "grade": "E",
+    "cost": 17793,
+    "mass": 10.0,
+    "integrity": 72,
+    "power": 10.4,
+    "heat_efficiency": 1.0
+},
+{
+    "class": 4,
+    "grade": "D",
+    "cost": 53379,
+    "mass": 4.0,
+    "integrity": 64,
+    "power": 11.7,
+    "heat_efficiency": 0.75
+},
+{
+    "class": 4,
+    "grade": "C",
+    "cost": 160137,
+    "mass": 5.0,
+    "integrity": 80,
+    "power": 13.0,
+    "heat_efficiency": 0.5
+},
+{
+    "class": 4,
+    "grade": "B",
+    "cost": 480411,
+    "mass": 8.0,
+    "integrity": 96,
+    "power": 14.3,
+    "heat_efficiency": 0.45
+},
+{
+    "class": 4,
+    "grade": "A",
+    "cost": 1441233,
+    "mass": 5.0,
+    "integrity": 88,
+    "power": 15.6,
+    "heat_efficiency": 0.4
+},
+
+{
+    "class": 5,
+    "grade": "E",
+    "cost": 53379,
+    "mass": 20.0,
+    "integrity": 86,
+    "power": 13.6,
+    "heat_efficiency": 1.0
+},
+{
+    "class": 5,
+    "grade": "D",
+    "cost": 160137,
+    "mass": 8.0,
+    "integrity": 77,
+    "power": 15.3,
+    "heat_efficiency": 0.75
+},
+{
+    "class": 5,
+    "grade": "C",
+    "cost": 480411,
+    "mass": 10.0,
+    "integrity": 96,
+    "power": 17.0,
+    "heat_efficiency": 0.5
+},
+{
+    "class": 5,
+    "grade": "B",
+    "cost": 1441233,
+    "mass": 16.0,
+    "integrity": 114,
+    "power": 18.7,
+    "heat_efficiency": 0.45
+},
+{
+    "class": 5,
+    "grade": "A",
+    "cost": 4323699,
+    "mass": 10.0,
+    "integrity": 106,
+    "power": 20.4,
+    "heat_efficiency": 0.4
+},
+
+{
+    "class": 6,
+    "grade": "E",
+    "cost": 160137,
+    "mass": 40.0,
+    "integrity": 102,
+    "power": 16.8,
+    "heat_efficiency": 1.0
+},
+{
+    "class": 6,
+    "grade": "D",
+    "cost": 480411,
+    "mass": 16.0,
+    "integrity": 90,
+    "power": 18.9,
+    "heat_efficiency": 0.75
+},
+{
+    "class": 6,
+    "grade": "C",
+    "cost": 1441233,
+    "mass": 20.0,
+    "integrity": 113,
+    "power": 21.0,
+    "heat_efficiency": 0.5
+},
+{
+    "class": 6,
+    "grade": "B",
+    "cost": 4323699,
+    "mass": 32.0,
+    "integrity": 136,
+    "power": 23.1,
+    "heat_efficiency": 0.45
+},
+{
+    "class": 6,
+    "grade": "A",
+    "cost": 12646820,
+    "mass": 20.0,
+    "integrity": 124,
+    "power": 25.2,
+    "heat_efficiency": 0.4
+},
+    
+{
+    "class": 7,
+    "grade": "E",
+    "cost": 468401,
+    "mass": 80.0,
+    "integrity": 118,
+    "power": 20.0,
+    "heat_efficiency": 1.0
+},
+{
+    "class": 7,
+    "grade": "D",
+    "cost": 1405203,
+    "mass": 32.0,
+    "integrity": 105,
+    "power": 22.5,
+    "heat_efficiency": 0.75
+},
+{
+    "class": 7,
+    "grade": "C",
+    "cost": 4215607,
+    "mass": 40.0,
+    "integrity": 131,
+    "power": 25.0,
+    "heat_efficiency": 0.5
+},
+{
+    "class": 7,
+    "grade": "B",
+    "cost": 12971097,
+    "mass": 64.0,
+    "integrity": 157,
+    "power": 27.5,
+    "heat_efficiency": 0.45
+},
+{
+    "class": 7,
+    "grade": "A",
+    "cost": 37940459,
+    "mass": 40.0,
+    "integrity": 144,
+    "power": 30.0,
+    "heat_efficiency": 0.4
+},
+    
+{
+    "class": 8,
+    "grade": "E",
+    "cost": 1405203,
+    "mass": 160.0,
+    "integrity": 135,
+    "power": 24.0,
+    "heat_efficiency": 1.0
+},
+{
+    "class": 8,
+    "grade": "D",
+    "cost": 4215607,
+    "mass": 64.0,
+    "integrity": 120,
+    "power": 27.0,
+    "heat_efficiency": 0.75
+},
+{
+    "class": 8,
+    "grade": "C",
+    "cost": 12646820,
+    "mass": 80.0,
+    "integrity": 150,
+    "power": 30.0,
+    "heat_efficiency": 0.5
+},
+{
+    "class": 8,
+    "grade": "B",
+    "cost": 37940459,
+    "mass": 128.0,
+    "integrity": 180,
+    "power": 33.0,
+    "heat_efficiency": 0.45
+},
+{
+    "class": 8,
+    "grade": "A",
+    "cost": 162586490,
+    "mass": 80.0,
+    "integrity": 165,
+    "power": 36.0,
+    "heat_efficiency": 0.4
 }
-
-
 
 ]
